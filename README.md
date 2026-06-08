@@ -1,8 +1,8 @@
 # Sayed Dashboard - Laravel Admin Panel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/sayed/sayed-dashboard.svg)](https://packagist.org/packages/sayed/sayed-dashboard)
-[![Total Downloads](https://img.shields.io/packagist/dt/sayed/sayed-dashboard.svg)](https://packagist.org/packages/sayed/sayed-dashboard)
-[![License](https://img.shields.io/packagist/l/sayed/sayed-dashboard.svg)](https://github.com/yourusername/sayed-dashboard/blob/main/LICENSE)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/sayedenam/sayed-dashboard.svg)](https://packagist.org/packages/sayedenam/sayed-dashboard)
+[![Total Downloads](https://img.shields.io/packagist/dt/sayedenam/sayed-dashboard.svg)](https://packagist.org/packages/sayedenam/sayed-dashboard)
+[![License](https://img.shields.io/packagist/l/sayedenam/sayed-dashboard.svg)](https://github.com/SayedEnam/sayed-dashboard/blob/main/LICENSE)
 
 A complete, production-ready admin dashboard package for Laravel applications. Quickly add user management, role-based access control, and a beautiful admin interface to your Laravel project.
 
