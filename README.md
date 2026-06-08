@@ -29,5 +29,5 @@ A complete, production-ready admin dashboard package for Laravel applications. Q
 ### Step 1: Install via Composer
 
 ```bash
-composer require sayed/sayed-dashboard
+composer require sayedenam/sayed-dashboard
 ```
