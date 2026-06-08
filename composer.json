@@ -1,0 +1,18 @@
+{
+    "name": "sayed/sayed-dashboard",
+    "description": "A complete admin dashboard package for Laravel applications with user management, RBAC, and CRUD generation",
+    "type": "laravel-package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sayed\\SayedDashboard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md.Syed Enam",
+            "email": "syedenamshohag@gmail.com"
+        }
+    ],
+    "require": {}
+}
